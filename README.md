@@ -35,7 +35,7 @@ Esse tipo de golpe é um dos mais comuns hoje. A Segurança da Informação ajud
 
 ## 🔁 Diagrama: Ciclo do Mundo Digital
 
-(🔧 Aqui vamos colocar um diagrama que mostra:  
+ 
 ![Mapa Digital](https://raw.githubusercontent.com/AnderCSilva84/mundo-digital-e-seguranca/650dacf123f558cfbecfa4ec3c2315cb7fc5fe4b/fb0366d2-3df2-4a70-bcc2-1c9edcc29717.png?raw=true)
 
 
