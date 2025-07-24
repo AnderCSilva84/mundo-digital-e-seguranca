@@ -36,7 +36,7 @@ Esse tipo de golpe é um dos mais comuns hoje. A Segurança da Informação ajud
 ## 🔁 Diagrama: Ciclo do Mundo Digital
 
 (🔧 Aqui vamos colocar um diagrama que mostra:  
-![Mapa Digital](./ImagemGit.png)
+![Mapa Digital](C:\Users\ander\OneDrive\Área de Trabalho\ImagemGit.png)
 
 
 ---
